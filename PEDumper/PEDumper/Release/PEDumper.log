@@ -1,0 +1,16 @@
+﻿  exportslist.cpp
+  exportsPE.cpp
+  hdatabasePE.cpp
+  headerPE.cpp
+  hesh.cpp
+  importsPE.cpp
+  kanca.cpp
+  modulelist.cpp
+  n0xDumper.cpp
+  PEDumper.cpp
+  simp.cpp
+  watchercloser.cpp
+  Generating code
+  All 2563 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PEDumper.vcxproj -> C:\ProjectNX\n0xPEDumper\PEDumper\Release\pe.exe
