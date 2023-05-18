@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2092 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PEDumper.vcxproj -> C:\ProjectNX\n0xPEDumper\PEDumper\x64\Release\pe.exe
